@@ -102,8 +102,11 @@ and problems with Faísca go where the mod's do: the
 
 ## License
 
-[CC0 1.0](LICENSE): public domain. Use these sounds for anything, no credit
-needed.
+[CC BY 4.0](LICENSE): use these sounds for anything, also in commercial
+work, as long as you credit them, for example:
+
+> Faísca sounds by Júlio Caliberda (cesarkali), CC BY 4.0,
+> https://github.com/cesarkali/faisca-sounds
 
 ---
 
@@ -202,5 +205,8 @@ Pedidos e problemas com a Faísca vão para onde vão os do mod: o
 
 ### Licença
 
-[CC0 1.0](LICENSE): domínio público. Use estes sons para o que quiser, sem
-precisar dar crédito.
+[CC BY 4.0](LICENSE): use estes sons para o que quiser, também em trabalhos
+comerciais, desde que dê o crédito, por exemplo:
+
+> Faísca sounds by Júlio Caliberda (cesarkali), CC BY 4.0,
+> https://github.com/cesarkali/faisca-sounds
