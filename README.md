@@ -38,36 +38,36 @@ choosing it.
 
 ## The Glass pack
 
-Version **1.0.0**, 25 sounds. Every ▶ plays the file in your browser,
+Version **1.0.1**, 25 sounds. Every ▶ plays the file in your browser,
 straight from the same address the mod uses.
 
 | File | What it's for | Length | Listen |
 | :--- | :--- | ---: | :---: |
-| `notify` | A new notification | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/notify.wav) |
-| `eat` | You feed her | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/eat.wav) |
-| `drink` | You give her water | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/drink.wav) |
-| `love` | You pet her | 1.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/love.wav) |
-| `tap` | A click on her startles her | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/tap.wav) |
-| `angry` | Three quick clicks make her angry | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/angry.wav) |
-| `frustrated` | More clicks while she's angry | 1.5 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/frustrated.wav) |
-| `proud` | She's proud | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/proud.wav) |
-| `startled` | She wakes up when you come back | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/startled.wav) |
-| `yawn` | A yawn, by herself | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/yawn.wav) |
-| `sneeze` | A sneeze, by herself | 1.0 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/sneeze.wav) |
-| `file-copy` | Files are being copied | 0.6 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/file-copy.wav) |
-| `file-move` | Files are being moved | 1.0 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/file-move.wav) |
-| `download` | A download finished | 1.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/download.wav) |
-| `screenshot` | A screenshot was taken | 0.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/screenshot.wav) |
-| `charger` | The charger was plugged in | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/charger.wav) |
-| `usb` | A drive was connected | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/usb.wav) |
-| `wifi-down` | The internet went away | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/wifi-down.wav) |
-| `wifi-up` | The internet is back | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/wifi-up.wav) |
-| `song` | A new song, in the apps you let her dance to | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/song.wav) |
-| `pomodoro-done` | A Pomodoro focus time ended | 1.8 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/pomodoro-done.wav) |
-| `reminder` | A reminder, an alarm or a timer ending | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/reminder.wav) |
-| `game-catch` | Her games: a catch | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/game-catch.wav) |
-| `game-miss` | Her games: a miss | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/game-miss.wav) |
-| `game-record` | Her games: a new record | 1.6 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.0/glass/game-record.wav) |
+| `notify` | A new notification | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/notify.wav) |
+| `eat` | You feed her | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/eat.wav) |
+| `drink` | You give her water | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/drink.wav) |
+| `love` | You pet her | 1.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/love.wav) |
+| `tap` | A click on her startles her | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/tap.wav) |
+| `angry` | Three quick clicks make her angry | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/angry.wav) |
+| `frustrated` | More clicks while she's angry | 1.5 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/frustrated.wav) |
+| `proud` | She's proud | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/proud.wav) |
+| `startled` | She wakes up when you come back | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/startled.wav) |
+| `yawn` | A yawn, by herself | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/yawn.wav) |
+| `sneeze` | A sneeze, by herself | 1.0 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/sneeze.wav) |
+| `file-copy` | Files are being copied | 0.6 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/file-copy.wav) |
+| `file-move` | Files are being moved | 1.0 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/file-move.wav) |
+| `download` | A download finished | 1.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/download.wav) |
+| `screenshot` | A screenshot was taken | 0.4 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/screenshot.wav) |
+| `charger` | The charger was plugged in | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/charger.wav) |
+| `usb` | A drive was connected | 1.1 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/usb.wav) |
+| `wifi-down` | The internet went away | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/wifi-down.wav) |
+| `wifi-up` | The internet is back | 1.2 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/wifi-up.wav) |
+| `song` | A new song, in the apps you let her dance to | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/song.wav) |
+| `pomodoro-done` | A Pomodoro focus time ended | 1.8 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/pomodoro-done.wav) |
+| `reminder` | A reminder, an alarm or a timer ending | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/reminder.wav) |
+| `game-catch` | Her games: a catch | 0.9 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/game-catch.wav) |
+| `game-miss` | Her games: a miss | 1.3 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/game-miss.wav) |
+| `game-record` | Her games: a new record | 1.6 s | [▶](https://cdn.jsdelivr.net/gh/cesarkali/faisca-sounds@1.0.1/glass/game-record.wav) |
 
 Every sound can be turned on or off by itself, and none of them plays over a
 full-screen app or during Do not disturb. A yawn, a sneeze, waking up and a new
@@ -84,13 +84,14 @@ The files are mono 16-bit WAV at 22050 Hz, between 15 and 76 KB each.
 
 ## Versions
 
-The mod always asks for one fixed version (`@1.0.0`), so the files it plays
+The mod always asks for one fixed version (`@1.0.1`), so the files it plays
 never change under it. A new pack, or a change to this one, gets a new
 version here, and the mod moves to it in one of its own updates.
 
 | Version | What's in it |
 | :--- | :--- |
-| 1.0.0 | Glass, 25 sounds |
+| 1.0.1 | The same 25 Glass sounds, under CC BY 4.0 (the version the mod uses) |
+| 1.0.0 | Glass, 25 sounds, first published under CC0 |
 
 ## Feedback
 
@@ -145,7 +146,7 @@ mod baixa antes de escolher.
 
 ### O pacote Glass
 
-Versão **1.0.0**, 25 sons. Os ▶ da [tabela em inglês](#the-glass-pack) tocam
+Versão **1.0.1**, 25 sons. Os ▶ da [tabela em inglês](#the-glass-pack) tocam
 cada arquivo no navegador, direto do mesmo endereço que o mod usa.
 
 | Arquivo | Para quê |
@@ -191,7 +192,7 @@ Os arquivos são WAV mono de 16 bits a 22050 Hz, de 15 a 76 KB cada.
 
 ### Versões
 
-O mod sempre pede uma versão fixa (`@1.0.0`), então os arquivos que ele toca
+O mod sempre pede uma versão fixa (`@1.0.1`), então os arquivos que ele toca
 nunca mudam por baixo dele. Um pacote novo, ou uma mudança neste, ganha uma
 versão nova aqui, e o mod passa para ela numa atualização dele.
 
